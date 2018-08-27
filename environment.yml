@@ -5,10 +5,10 @@ dependencies:
 - openmmtools
 - numpy
 - nglview
-- pandas
+- pandas=0.23.0=py36_0
 
 channels:
   - anaconda
   - conda-forge
   - omnia
-- bioconda
+  - bioconda
