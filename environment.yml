@@ -5,6 +5,7 @@ dependencies:
 - openmmtools
 - numpy
 - nglview
+- pandas
 
 channels:
   - anaconda
