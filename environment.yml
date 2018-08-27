@@ -1,0 +1,7 @@
+name: biol262
+dependencies:
+- openmm
+- pandas
+
+channels:
+  - omnia
