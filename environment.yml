@@ -1,14 +1,8 @@
-name: openmm-tutorials
+name: biol262
 dependencies:
-- python=3.6
-- openmm
-- openmmtools
-- numpy
-- nglview
-- pandas=0.23.0=py36_0
+- openmm=7.2.2=py36_1
+- pandas=0.23.4=py36hf8a1672_0
 
 channels:
-  - anaconda
-  - conda-forge
-  - omnia
-  - bioconda
+- omnia
+- conda-forge
