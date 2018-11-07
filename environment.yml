@@ -1,7 +1,9 @@
 name: biol262
 channels:
   - conda-forge
+  - omnia
 dependencies:
   - python=3.7
+  - openmm=7.2.2=py36_1
   - pip:
     - -r requirements.txt
