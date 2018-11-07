@@ -1,10 +1,7 @@
 name: biol262
-dependencies:
-- python=3.6
-- openmm=7.2.2=py36_1
-- pandas=0.23.4=py36hf8a1672_0
-- matplotlib
-
 channels:
-- omnia
-- conda-forge
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pip:
+    - -r requirements.txt
