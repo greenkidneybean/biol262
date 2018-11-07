@@ -2,6 +2,7 @@ name: biol262
 dependencies:
 - openmm=7.2.2=py36_1
 - pandas
+- matplotlib
 
 channels:
 - omnia
