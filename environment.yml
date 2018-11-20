@@ -4,8 +4,11 @@ dependencies:
 - pandas
 - matplotlib
 - seaborn
+- altair
+- plotly
 
 channels:
 - omnia
 - conda-forge
 - anaconda
+- plotly
