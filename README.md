@@ -5,4 +5,9 @@
 ## Fall 2018
 ### Nov. 26th - Lecture 10: Computational Biology
 1. Using Python and Pandas for Big Data (Michael Chambers)
-2. Computational Biophysics (Samar Samarjeet)
+2. Computational Biophysics (Samar Samarjeet)  
+
+Click on the "launch binder" button up top to generate interactive Jupyter notebooks for the lesson.  
+
+Recommended Prior Reading Assignment:  
+[Intro to Pandas for Excel Super Users – Joan Wang](https://towardsdatascience.com/intro-to-pandas-for-excel-super-users-dac1b38f12b0)
