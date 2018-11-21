@@ -1,11 +1,11 @@
 name: biol262
 dependencies:
 - openmm=7.2.2=py36_1
-- pandas
-- matplotlib
-- seaborn
-- altair
-- plotly
+- pandas=0.23.4
+- matplotlib=3.0.2
+- seaborn=0.9.0
+- altair=2.2.2
+- plotly=3.4.1
 
 channels:
 - omnia
