@@ -11,3 +11,5 @@ Click on the "launch binder" button up top to generate interactive Jupyter noteb
 
 Recommended Prior Reading Assignment:  
 [Intro to Pandas for Excel Super Users – Joan Wang](https://towardsdatascience.com/intro-to-pandas-for-excel-super-users-dac1b38f12b0)
+
+**Homework**: For the Python/Pandas portion of this lesson a quiz is available on Canvas and must be submitted by Dec. 3rd at 5pm for credit.  This repository contains a Jupyter notebook ('Python_Pandas_Homework.ipynb') to assist with the questions and can also be launched using the "launch binder" button above.
