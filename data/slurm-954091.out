@@ -1,0 +1,9 @@
+
+########################
+#NN: Submit Dir.  -> /u/samar/Documents/git/SAMPL6/openmm_test
+#NN: Job Nodelist -> g77
+#NN: No. of Nodes -> 1
+#NN: No. of Tasks ->
+########################
+
+slurmstepd: error: *** JOB 954091 ON g77 CANCELLED AT 2017-12-01T21:33:55 DUE TO TIME LIMIT ***
